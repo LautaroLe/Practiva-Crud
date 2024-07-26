@@ -1,0 +1,1 @@
+INSERT INTO users (id, nombre, apellido, email) VALUES (1, 'Ernesto Andrés', 'Zapata Icart', 'ea@gmail.com'), (2, 'Susana Beatriz', 'Galetto', 'sb@gmail.com'), (3, 'Luis Andrés', 'Zapata Icart', 'la@gmail.com'),(4, 'Osvaldo Romeo', 'Galetto', 'or@gmail.com');
